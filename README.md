@@ -1,3 +1,3 @@
 # popgenaiptasia
 
-Bioinformatics repository
+Bioinformatics repository associated with paper.
